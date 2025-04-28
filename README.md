@@ -1,0 +1,1 @@
+# hegelian_attitude_analysis
